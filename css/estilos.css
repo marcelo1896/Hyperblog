@@ -5,7 +5,6 @@ body{
     padding: 0;
     margin: 0;
     font-size: 16px;
-    background: #1e1f24;
 }
 
 #container{
@@ -34,16 +33,6 @@ body{
     font-weight: bold;
     font-size: 0.8em;
     padding: 0 0 0 0;
-}
-
-#cabecera #logo{
-    width: 20px;
-    vertical-align: middle;
-}
-
-#post{
-    background: white;
-    padding: 1em;
 }
 
 #footer{
